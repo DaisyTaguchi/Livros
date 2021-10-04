@@ -1,0 +1,9 @@
+C:\Users\Daisy\source\repos\ExemploAula3\ExemploAula3\Ex.Aula 3\obj\Debug\net5.0\ExemploAula3.csproj.AssemblyReference.cache
+C:\Users\Daisy\source\repos\ExemploAula3\ExemploAula3\Ex.Aula 3\obj\Debug\net5.0\ExemploAula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daisy\source\repos\ExemploAula3\ExemploAula3\Ex.Aula 3\obj\Debug\net5.0\ExemploAula3.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\ExemploAula3\ExemploAula3\Ex.Aula 3\obj\Debug\net5.0\ExemploAula3.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\ExemploAula3\ExemploAula3\Ex.Aula 3\obj\Debug\net5.0\ExemploAula3.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\ExemploAula3\ExemploAula3\Ex.Aula 3\obj\Debug\net5.0\ExemploAula3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daisy\source\repos\ExemploAula3\ExemploAula3\Ex.Aula 3\obj\Debug\net5.0\ExemploAula3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daisy\source\repos\ExemploAula3\ExemploAula3\Ex.Aula 3\obj\Debug\net5.0\ExemploAula3.RazorAssemblyInfo.cache
+C:\Users\Daisy\source\repos\ExemploAula3\ExemploAula3\Ex.Aula 3\obj\Debug\net5.0\ExemploAula3.RazorAssemblyInfo.cs
